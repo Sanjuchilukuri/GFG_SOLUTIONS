@@ -36,10 +36,10 @@ class Solution
                 j++;
             }
         }
-        
         return {-1};
     }
 };
+
 
 //{ Driver Code Starts.
 
